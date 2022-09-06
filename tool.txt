@@ -1,3 +1,7 @@
 1)jira
 2)terraform
 3)docker
+4)kubernetes
+5)gitlab
+6)git
+7)helm
